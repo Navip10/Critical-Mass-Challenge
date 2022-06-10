@@ -32,6 +32,6 @@ link:https://jolly-liskov-07c94f.netlify.app/
 Ive been inspired recently by all the web3 and blockchain news and developments. The field has been growing significantly and its inspired me to start my own NFT market application with a fellow partner. 
 
 ## Focus
-I will use my time at CM to grow into a well rounded developer. I want to continue to grow in the process of designing and implementing react or other freamworks to create applications that will be used on everyday basis. I want to learn the best techniques from my peers and I hope to use this knowledge to contribute to an ongoing project. I would like to improve my knowledge in design and learn new development techniques.
+I will use my time at CM to grow into a well rounded developer. I want to continue to grow in the process of designing and implementing react or other freamworks to create applications that will be used on a everyday basis. I want to learn the best techniques from my peers and I hope to use this knowledge to contribute to an ongoing project. I would like to improve my knowledge in design and learn new development techniques.
 ## Link To Challenge
 link: https://codesandbox.io/s/2022-internship-exercise-menu-forked-beljxx?file=/src/index.js
